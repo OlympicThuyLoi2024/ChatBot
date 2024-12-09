@@ -1,0 +1,6 @@
+Changelogs
+ v1.0
+- Nạp dữ liệu.
+- Chuyển hóa dữ liệu.
+- Trainning dữ liệu.
+- Nhận và gửi trả câu trả lời cho chat bot AI. 
