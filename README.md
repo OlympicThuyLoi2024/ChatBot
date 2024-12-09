@@ -19,7 +19,7 @@ Nạp dữ liệu, phân tích, trainning cho chat bot AI của hệ thống Saf
 
 ### 2. Cài đặt dữ án
 #### Bước 1: Tải mã nguồn từ bản phát hành
-1. Truy cập trang phát hành chính thức tại: [Releases](https://github.com/trungthanhcva2206/Service-ChatBot/releases).
+1. Truy cập trang phát hành chính thức tại: [Releases](https://github.com/OlympicThuyLoi2024/ChatBot/releases).
 2. Chọn phiên bản phù hợp với nhu cầu của bạn.
 3. Trong phần **Assets**, tải tệp:
    - `Source code (zip)` hoặc
@@ -28,12 +28,12 @@ Nạp dữ liệu, phân tích, trainning cho chat bot AI của hệ thống Saf
 #### Bước 2: Giải nén và truy cập thư mục
 ```bash
 # Giải nén file đã tải
-unzip Service-ChatBot.zip
-cd Service-ChatBot
+unzip ChatBot-1.0.zip
+cd ChatBot-1.0
 ```
 #### Bước 3: Import vô N8N 
 1. Tạo 1 workflow trong N8N
-2. Import file Agent.json, file này lấy được ở trong thư mục Service-ChatBot
+2. Import file Agent.json, file này lấy được ở trong thư mục ChatBot-1.0
 
 #### Bước 4: Chỉnh sửa các tài khoản dịch vụ
 Ở trong các node OpenAI, Pinecone sẽ có phần **Credential to connect with**, có thể chỉnh sửa các tài khoản dịch vụ của mình ở đây. 
