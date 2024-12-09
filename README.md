@@ -33,7 +33,7 @@ cd ChatBot-1.0
 ```
 #### Bước 3: Import vô N8N 
 1. Tạo 1 workflow trong N8N
-2. Import file Agent.json, file này lấy được ở trong thư mục ChatBot-1.0
+2. Import file Agent.json vô workflow trên, file này lấy được ở trong thư mục ChatBot-1.0
 
 #### Bước 4: Chỉnh sửa các tài khoản dịch vụ
 Ở trong các node OpenAI, Pinecone sẽ có phần **Credential to connect with**, có thể chỉnh sửa các tài khoản dịch vụ của mình ở đây. 
