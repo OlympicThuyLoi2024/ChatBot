@@ -15,7 +15,7 @@ Nạp dữ liệu, phân tích, trainning cho chat bot AI của hệ thống Saf
 ### 1. Yêu cầu hệ thống  
 - **Tài khoản OpenAI**: Để sử dụng mô hình tạo embedding.  
 - **Tài khoản Pinecone**: Để lưu trữ và truy vấn vector.
-- **N8N**: Phiên bản >=1.66.0
+- [**N8N**](https://n8n.io/): Phiên bản >=1.66.0
 
 ### 2. Cài đặt dữ án
 #### Bước 1: Tải mã nguồn từ bản phát hành
